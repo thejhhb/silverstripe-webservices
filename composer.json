@@ -9,9 +9,5 @@
 		"name": "Marcus Nyeholt",
 		"email": "marcus@silverstripe.com.au"
 	}
-	],
-	"require":
-	{
-				"symbiote/silverstripe-multivaluefield": "^3.1"
-	}
+	]
 }
