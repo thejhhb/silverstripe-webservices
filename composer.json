@@ -1,5 +1,5 @@
 {
-	"name": "silverstripe/webservices",
+	"name": "jhhb/webservices",
 	"description": "A module for exposing SilverStripe service classes via web endpoints as webservices.",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "webservices"],
