@@ -85,7 +85,7 @@ class WebServiceController extends Controller
         $this->init();
     }
 
-	public function handleRequest(HTTPRequest $request)
+	public function handleRequest(HTTPRequest $request): HTTPResponse
 	{
 		try {
 			
